@@ -1,0 +1,13 @@
+bin/
+obj/
+DllInject/bin
+DllInject/obj
+.idea
+publish/
+x64/
+.vs/
+.idea/
+InjectContent/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
